@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(225, 213, 213);
+    width: 20%;
+}
+h2{
+    color: yellow;
+    text-align: center;
+    border: 2px solid yellow;
+    font-family: 'Times New Roman';
+    border-radius: 12px;
+}
+h2:hover{
+    background-color: blue;
+    color: brown;
+    font-family: 'Lucida Sans';
+}
